@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>MITE event management</title>
+        <title>Eventopia</title>
         <meta
           name="description"
           content="MITE event management"
