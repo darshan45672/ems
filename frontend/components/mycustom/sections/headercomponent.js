@@ -44,7 +44,7 @@ const HeaderComponent = () => {
           <Navbar className="navbar-expand-lg h2-nav">
           <Link href="/">
             <NavbarBrand>
-              <Image src={logo2} alt="wrapkit"    width="105"
+              <Image src={logo2} alt="ajiet"    width="105"
               height="30"/>
             </NavbarBrand>
             </Link>
