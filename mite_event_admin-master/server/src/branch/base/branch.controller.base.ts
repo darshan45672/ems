@@ -136,7 +136,7 @@ export class BranchControllerBase {
         },
       });
     } catch (error) {
-      if (isRecordNotFoundError(error as Error)) {
+      if (isRecordNotFoundError(error)) {
         throw new errors.NotFoundException(
           `No resource was found for ${JSON.stringify(params)}`
         );
@@ -168,7 +168,7 @@ export class BranchControllerBase {
         },
       });
     } catch (error) {
-      if (isRecordNotFoundError(error as Error)) {
+      if (isRecordNotFoundError(error)) {
         throw new errors.NotFoundException(
           `No resource was found for ${JSON.stringify(params)}`
         );
