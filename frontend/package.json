@@ -19,7 +19,7 @@
         "cross-env": "^7.0.3",
         "graphql": "^16.6.0",
         "moment": "^2.29.4",
-        "next": "^11.1.4",
+        "next": "^14.1.0",
         "next-auth": "^4.22.0",
         "next-s3-upload": "^0.3.0",
         "prop-types": "15.7.2",
