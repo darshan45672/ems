@@ -18,7 +18,7 @@ import {
 } from "reactstrap";
 import Image from "next/image";
 import logo from "../../../assets/images/logos/green-logo.png";
-import logo2 from "../../../assets/images/mite_white.png";
+import logo2 from "../../../assets/images/1.png";
 import image from "next/image";
 
 import Link from 'next/link'
@@ -44,7 +44,7 @@ const HeaderComponent = () => {
           <Navbar className="navbar-expand-lg h2-nav">
           <Link href="/">
             <NavbarBrand>
-              <Image src={logo2} alt="wrapkit"    width="105"
+              <Image href="" src={logo2} alt="wrapkit" width="200"
               height="30"/>
             </NavbarBrand>
             </Link>

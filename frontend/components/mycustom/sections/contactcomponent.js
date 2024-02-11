@@ -77,14 +77,14 @@ const ContactComponent = () => {
                 </Col>
                 <Col lg="4">
                   <div className="detail-box p-40 bg-info">
-                    <h2 className="text-white">MITE</h2>
+                    <h2 className="text-white">EVENTOPIA</h2>
                     <p className="text-white m-t-30 op-8">
-                    082582 62695
-                      <br /> info@mite.co.in
+                    90190 03490
+                      <br /> johny123@xyz.com
                     </p>
                     <p className="text-white op-8">
-                    Badaga Mijar, Solapur
-                      <br /> Mangalore Highway, Near Moodabidre, Mangaluru, Karnataka 574225
+                     Near Royal Enfield showroom, Bangra kuloor
+                      <br />Mangaluru, Karnataka 575006
                     </p>
                   </div>
                 </Col>

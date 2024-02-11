@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { Container, Row, Col,Ratio } from "reactstrap";
 import Image from "next/image";
-import logo from "../../assets/images/mite_logo_color.png";
+import logo from "../../assets/images/1.png";
 
 
 const Banner2 = () => {
@@ -12,11 +12,11 @@ const Banner2 = () => {
     <div className="static-slider-head banner2">
 
 
-    {/* <div className="overlay"></div>
+    <div className="overlay"></div>
     <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" className="header-video">
-      <source src="https://gigikart.com/pexels.mp4" type="video/mp4"></source>
+      <source src="event.mp4" type="video/mp4"></source>
     </video>
-     */}
+    
 
 
 
@@ -32,7 +32,7 @@ const Banner2 = () => {
         <h1 class="display-3 text-white">
           {/* <img src={logo} alt="logo" className="img-fluid" /> */}
           <Image src={logo} alt="wrapkit" 
-              height="160" width="140"/>
+              height="" width=""/>
         </h1>
         <p class="lead mb-0" style={{
           fontFamily: "system-ui",
