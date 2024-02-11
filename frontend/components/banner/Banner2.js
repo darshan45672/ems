@@ -12,11 +12,11 @@ const Banner2 = () => {
     <div className="static-slider-head banner2">
 
 
-    {/* <div className="overlay"></div>
+    <div className="overlay"></div>
     <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" className="header-video">
-      <source src="https://gigikart.com/pexels.mp4" type="video/mp4"></source>
+      <source src="event" type="video/mp4"></source>
     </video>
-     */}
+    
 
 
 
