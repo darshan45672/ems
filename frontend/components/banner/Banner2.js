@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { Container, Row, Col,Ratio } from "reactstrap";
 import Image from "next/image";
-import logo from "../../assets/images/mite_logo_color.png";
+import logo from "../../assets/images/1.png";
 
 
 const Banner2 = () => {
@@ -32,7 +32,7 @@ const Banner2 = () => {
         <h1 class="display-3 text-white">
           {/* <img src={logo} alt="logo" className="img-fluid" /> */}
           <Image src={logo} alt="wrapkit" 
-              height="160" width="140"/>
+              height="" width=""/>
         </h1>
         <p class="lead mb-0" style={{
           fontFamily: "system-ui",
