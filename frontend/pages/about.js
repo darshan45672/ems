@@ -1,6 +1,6 @@
 import TeamComponent from "../components/mycustom/sections/teamcomponent";
 import Image from "next/image";
-import aboutImg from "../assets/images/about.jpg";
+import aboutImg from "../assets/images/eventopia.png";
 function About(){
     return(
         // <TeamComponent/>
@@ -19,8 +19,8 @@ function About(){
                 <div class="img-fluid" loading="lazy"/>
                 <Image
                          src={aboutImg}
-                          height="600"
-                          width="1000"
+                          height="400"
+                          width="500"
                           className="rounded "
                           alt="img"
                         />
