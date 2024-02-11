@@ -10,12 +10,12 @@ const Footer = () => {
         <Row>
           <Col lg="3" md="6" className="m-b-30">
             <h5 className="m-b-20">Address</h5>
-            <p> Badaga Mijar, Solapur - Mangalore Highway, Near Moodabidre, Mangaluru, Karnataka 574225</p>
+            <p> Near Royal Enfield showroom, Bangra Kuloor, Mangaluru, Karnataka 575006</p>
           </Col>
           <Col lg="3" md="6" className="m-b-30">
             <h5 className="m-b-20">Phone</h5>
             <p>
-              Office : 082582 62695
+              Office : 901900 3490
             </p>
           </Col>
           <Col lg="3" md="6" className="m-b-30">
@@ -23,12 +23,12 @@ const Footer = () => {
             <p>
               Office :
               <Link href="#">
-                <a className="link">info@mite.ac.in </a>
+                <a className="link"> johny123@xyz.com </a>
               </Link>
               <br />
               Site :
-              <Link href="https://mite.ac.in/">
-                <a className="link"> mite.ac.in</a>
+              <Link href="">
+                <a className="link"> Eventopia.org.in</a>
               </Link>
             </p>
           </Col>
@@ -69,8 +69,8 @@ const Footer = () => {
               <div className="d-flex font-14">
                 <div className="m-t-10 m-b-10 copyright">
                   All Rights Reserved by{" "}
-                  <Link href="https://mite.ac.in/">
-                    <a className="link">MITE</a>
+                  <Link href="">
+                    <a className="link">Eventopia</a>
                   </Link>
                 </div>
                 <div className="links ml-auto m-t-10 m-b-10">

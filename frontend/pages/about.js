@@ -9,9 +9,9 @@ function About(){
         <div class="container">
         <div class="row">
         <div class="align-self-center col-md-7 col-lg-5">
-        <h2 class="title font-bold">Welcome to Mite Event Registration!</h2>
+        <h2 class="title font-bold">Welcome to Eventopia!</h2>
         <p class="m-t-40 m-b-30">
-        Mite College Event Registration is your one-stop solution for seamless event registration services for college events. We understand that college events are exciting and dynamic, and we are here to help you make them unforgettable experiences.
+        AJIET College Event Registration is your one-stop solution for seamless event registration services for college events. We understand that college events are exciting and dynamic, and we are here to help you make them unforgettable experiences.
         </p>
        
         </div>
